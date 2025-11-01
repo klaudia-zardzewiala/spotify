@@ -19,7 +19,9 @@ Technologies used:
 - Scikit-learn (KMeans, RandomForestRegressor)
 
 How to run: 
+```bash
 git clone https://github.com/<your-repo-url>.git
 cd <project-folder>
 pip install -r requirements.txt
 jupyter notebook spotify_2024.ipynb
+

@@ -20,8 +20,8 @@ Technologies used:
 
 How to run: 
 ```bash
-git clone https://github.com/<your-repo-url>.git
-cd <project-folder>
+git clone https://github.com/klaudia-zardzewiala/spotify.git
+cd spotify
 pip install -r requirements.txt
 jupyter notebook spotify_2024.ipynb
 
